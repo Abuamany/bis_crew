@@ -39,7 +39,7 @@ stakeholder = st.text_input('Enter The Stakeholder or team ')
 #=================
 # LLM object and API Key
 #=================
-os.environ["COHERE_API_KEY"] = "QYa3rxplaf4Z4RItUMxbwMfKtURE1uTzQfkJvOwK"
+os.environ["COHERE_API_KEY"] =
 llm = ChatCohere()
 
 
